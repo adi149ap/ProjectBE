@@ -1,3 +1,4 @@
+
 # Deficiency Identification in Plants
 _________
 Plants usually show deficiencies with major varying patterns on their leaves. Feature extraction and supervised machine learning algorithms are performed on the data-set of different
@@ -35,3 +36,5 @@ __________
 * The model for images os size 128x128 pixels is as shown 
 
 ![Image unavailable](images/128.png)
+=======
+
